@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+🌱 I’m currently transitioning to data science from software engineering and just started on a structured learning path for a Data Scientist from SuperDataScience.
+
+Have a look at [my portfolio](https://mirokuru.github.io/mirokuru/) in GitHub.
 
 <!--
 **mirokuru/mirokuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

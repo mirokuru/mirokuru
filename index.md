@@ -2,6 +2,17 @@
 
 Very excited about starting on a structured 99 day learning path for a Data Scientist from [SuperDataScience](https://www.superdatascience.com/paths).
 
+## Investigating a drop in user engagement
+
+A workshop on [Mode.com](https://mode.com). The project involved making
+hypotheses for the cause of a drop in user engagement, evaluating them, planning
+how to test them, and deciding on which is the best order to test them out. The
+investigation was done through SQL queries which were plotted in Mode. A
+[report with the process and the SQL queries](/reports/drop-in-user-engagement.pdf)
+can be downloaded here.
+
+![](/images/drop-in-user-engagement.png)
+
 ## learning-seaborn
 A learning project from SuperDataScience's Python A-Z course for learning Python for data science. The project involves [reproducing a data visualization based on an image using Python](https://github.com/mirokuru/learning-seaborn).
 

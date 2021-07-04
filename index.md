@@ -2,6 +2,10 @@
 
 Very excited about starting on a structured 99 day learning path for a Data Scientist from [SuperDataScience](https://www.superdatascience.com/paths).
 
+## My Machine Learning Toolkit and Templates
+
+My [ml toolkit](https://github.com/mirokuru/ml_toolkit) has a data preprocessing template, a general toolkit, and templates for regression, classification, and clustering.
+
 ## Investigating a drop in user engagement
 
 A workshop on [Mode.com](https://mode.com). The project involved making

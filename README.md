@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🌱 I’m currently transitioning to data science from software engineering and just started on a structured learning path for a Data Scientist from SuperDataScience.
+🌱 I’m currently transitioning to data science from software engineering and just finished an extensive structured learning path for a Data Scientist from SuperDataScience.
 
 Have a look at [my portfolio](https://mirokuru.github.io/mirokuru/) in GitHub.
 

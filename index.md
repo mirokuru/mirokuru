@@ -1,10 +1,16 @@
 # My Data Science and Projects Portfolio
 
-Very excited about starting on a structured 99 day learning path for a Data Scientist from [SuperDataScience](https://www.superdatascience.com/paths).
+So excited about finishing a structured 99 day learning path for a Data Scientist from [SuperDataScience](https://www.superdatascience.com/paths)! Most of the things here are the result of me recording and creating useful templates while going through that learning path.
+
+---
 
 ## My Machine Learning Toolkit and Templates
 
-My [ml toolkit](https://github.com/mirokuru/ml_toolkit) has a data preprocessing template, a general toolkit, and templates for regression, classification, and clustering.
+My [ml toolkit](https://github.com/mirokuru/ml_toolkit) has a data preprocessing template, a general toolkit, and templates for regression, classification, and clustering. There are also templates for deep learning, natural language processing, model selection, dimensionality reduction, and boosting.
+
+## Predicting Car Prices
+
+In this [case study](https://github.com/mirokuru/predicting_car_prices) the goal was to try to predict car prices using an IML dataset. The task required extensive data wrangling. In addition to Linear Regression I also tested if XGBoost would help here and it sure did.
 
 ## Investigating a drop in user engagement
 
@@ -30,6 +36,8 @@ The code involves:
 ![](/images/learning-seaborn.png)
 
 *Stay tuned for some new projects!*
+
+---
 
 # Older projects
 
